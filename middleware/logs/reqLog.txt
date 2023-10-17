@@ -1,0 +1,7 @@
+20231016	 17:42:52	 5a065f26-d268-45ec-9ed3-1a4932b15500 	 GET	 undefined	 / 
+20231016	 17:42:52	 85a47294-290b-4c05-8d5b-7328b1abebc1 	 GET	 undefined	 /css/style.css 
+20231016	 17:44:11	 73b85c71-c5ca-431d-ab6e-110e329801d9 	 GET	 undefined	 / 
+20231016	 17:44:11	 ac61e7ce-2bdf-4daf-9362-067e3b37a912 	 GET	 undefined	 /css/style.css 
+20231016	 17:44:58	 3818265e-8ff9-4d7e-9bb6-64194ba474b6 	 GET	 undefined	 / 
+20231016	 17:45:00	 85b11f5b-f7fa-4428-8219-96d5a5566a4e 	 GET	 undefined	 / 
+20231016	 17:45:00	 f4204008-0a53-467f-b0a8-4bdf3ff452b4 	 GET	 undefined	 /css/style.css 

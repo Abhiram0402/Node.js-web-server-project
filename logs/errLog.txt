@@ -1,1 +1,4 @@
 20231016	 13:06:30	 de70ced8-62a8-4103-9801-fd57e1015fb9 	 Error: ENOENT: no such file or directory, open 'C:\repeat\data.json' 
+20231017	 12:04:51	 e2da1609-70db-47bb-96f0-aac0c57c6dc5 	 Error: Not allowed by cors 
+20231017	 12:04:54	 16430a54-4e61-4c0b-bfec-68ed9937195d 	 Error: Not allowed by cors 
+20231017	 12:04:56	 4f25ebca-9557-46a9-825b-bbc944e396a3 	 Error: Not allowed by cors 
